@@ -12,7 +12,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+# CODE :
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -30,9 +31,9 @@ Execute the program
         <TD width=""25% bgcolor="white">3:00 - 5:00</TD>
     </TR>
     <TR>
-        <TD width="25%">Design and Modeling </TD> 
-        <TD width="25%">Communicative English</TD>
-        <TD width="25%">Mechanics and Product Development</TD>
+        <TD width="25%"> 19AI302/SELVAM.R</TD> 
+        <TD width="25%">19EN101/SUNITHA DEVA KUMARI</TD>
+        <TD width="25%">19AI303/SRIDHAR.S</TD>
     </TR>
     <TR> 
         <TD rowspan="2" width="25%">Tuesday</TD>
@@ -41,9 +42,9 @@ Execute the program
         <TD width=""25% bgcolor="white">1:00 - 3:00</TD>
     </TR>
     <TR>
-        <TD width="25%">Mechanics and Product Development</TD> 
-        <TD width="25%">Soft Skills</TD>
-        <TD width="25%">Python and Maths</TD>
+        <TD width="25%">19AI303/SRIDHAR.S</TD> 
+        <TD width="25%">19EY701/EVANGELIN HELEN</TD>
+        <TD width="25%">19AI301/ARCHANA S H</TD>
     </TR>
     <TR> 
         <TD rowspan="2" width="25%">Wednesday</TD>
@@ -52,8 +53,8 @@ Execute the program
         <TD width=""25% bgcolor="white">1:00 - 5:00</TD> 
     </TR>
     <TR>
-        <TD width="25%">Python and Maths</TD> 
-        <TD width="25%">Web Development</TD>
+        <TD width="25%">19AI301/ARCHANA S H </TD> 
+        <TD width="25%">19AI414/KARTHI GOVINDHARAJU</TD>
         <TD width="25%">No Class</TD>
     </TR>
     <TR> 
@@ -63,9 +64,9 @@ Execute the program
         <TD width=""25% bgcolor="white">3:00 - 5:00</TD>
     </TR>
     <TR>
-        <TD width="25%">Web Development</TD> 
-        <TD width="25%">Design and Modeling</TD>
-        <TD width="25%">Python and Maths</TD>
+        <TD width="25%">19AI414/KARTHI GOVINDHARAJU</TD> 
+        <TD width="25%"> 19AI302/SELVAM.R</TD>
+        <TD width="25%">19AI301/ARCHANA S H</TD>
     </TR>
     <TR> 
         <TD rowspan="2" width="25%">Friday</TD>
@@ -74,13 +75,13 @@ Execute the program
         <TD width=""25% bgcolor="white">1:00 - 3:00</TD>
     </TR>
     <TR>
-        <TD width="25%">Communicative English</TD> 
-        <TD width="25%">Web Development</TD>
-        <TD width="25%">Python and Maths</TD>
+        <TD width="25%">19EN101/SUNITHA DEVA KUMARI</TD> 
+        <TD width="25%">19AI414/KARTHI GOVINDHARAJU</TD>
+        <TD width="25%">19AI301/ARCHANA S H</TD>
     </TR>
     </TABLE>
     </body>
 </html>
-
+```
 # OUPUT
-![image](https://github.com/Hariveeraprasad-2006/ODD2023-WT-Ex-03-Timetable/assets/145049988/83116c0b-fdb3-41c5-86ed-2489ca2f2d17)
+![image](https://github.com/Hariveeraprasad-2006/ODD2023-WT-Ex-03-Timetable/assets/145049988/49c9a385-46b1-4cac-9f58-dfdc6c9d42c2)
